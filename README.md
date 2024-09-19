@@ -1,0 +1,1 @@
+# dingua_store_front_test
